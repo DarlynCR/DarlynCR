@@ -1,5 +1,9 @@
-### Hi there 👋
 
+![1678972625168.jpg](Readme%207375e515d3ca4a8892095dcf02edc501/1678972625168.jpg)
+
+Hola 👋🏻 Soy ***DarlynCR***! 🙋🏻‍♀️
+
+Una apasionada más por el ***Testing…*** En constante aprendizaje y crecimiento para consolidar mi perfil profesional como  ✨*Software Tester Automation* ✨ 👩🏻‍💻🐞🔍
 <!--
 **DarlynCR/DarlynCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
