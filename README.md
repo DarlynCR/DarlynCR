@@ -1,5 +1,5 @@
 
-![1678972625168.jpg](Readme%207375e515d3ca4a8892095dcf02edc501/1678972625168.jpg)
+![](https://github.com/DarlynCR/DarlynCR/blob/main/Perfil.jpg)
 
 Hola 👋🏻 Soy ***DarlynCR***! 🙋🏻‍♀️
 
