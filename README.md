@@ -1,10 +1,10 @@
-
+<!--
 ![](https://github.com/DarlynCR/DarlynCR/blob/main/Perfil.jpg)
 
 Hola 👋🏻 Soy ***DarlynCR***! 🙋🏻‍♀️
 
 Una apasionada más por el ***Testing…*** En constante aprendizaje y crecimiento para consolidar mi perfil profesional como  ✨*Software Tester Automation* ✨ 👩🏻‍💻🐞🔍
-<!--
+
 **DarlynCR/DarlynCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
